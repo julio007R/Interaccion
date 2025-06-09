@@ -2,14 +2,14 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #00FF00;
-    color: #00FF00;
+    background-color:#c0c7c4;
+    color:  #333;
     line-height: 1.6;
 }
 
 header {
     background-color: #2889ea;
-    color: #ecf0f1;
+    color: #00FF00;
     padding: 40px 20px;
     text-align: center;
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
